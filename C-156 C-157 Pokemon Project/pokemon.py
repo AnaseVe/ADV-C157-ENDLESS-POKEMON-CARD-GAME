@@ -21,6 +21,8 @@ img = ImageTk.PhotoImage(Image.open("persion.jpg"))
 img = ImageTk.PhotoImage(Image.open("pikachu.jpg"))
 img = ImageTk.PhotoImage(Image.open("ratata.jpg"))
 img = ImageTk.PhotoImage(Image.open("squirtle.jpg"))
+img = ImageTk.PhotoImage(Image.open("button.jpg"))
+
 
 
 
